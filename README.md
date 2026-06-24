@@ -22,6 +22,3 @@ Passionate about cybersecurity and data science, I enjoy exploring how technolog
 ![](https://github-contributor-stats.vercel.app/api?username=lorenzovolaco&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=lorenzovolaco&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
